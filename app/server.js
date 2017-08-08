@@ -9,5 +9,6 @@ app.set("views", __dirname + '../public/views');
 app.use(express.static('public'));
 
 // exporting the app
+require('./routes')(app);
 
 module.exports = app;
