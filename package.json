@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/naveenmannam/minatwitter/issues"
   },
-  "homepage": "https://github.com/naveenmannam/minatwitter#readme"
+  "homepage": "https://github.com/naveenmannam/minatwitter#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  }
 }
