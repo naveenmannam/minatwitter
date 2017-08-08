@@ -1,6 +1,6 @@
 // Get the server js file from app foler
 var app = require('./app/server');
-var port = process.env.PORT || 8080;
+var port = process.env.PORT || 5000;
 // Start the server
 
 app.listen(port, function() {
