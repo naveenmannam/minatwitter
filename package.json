@@ -1,23 +1,24 @@
 {
-  "name": "minatwitter",
-  "version": "1.0.0",
-  "description": "A simple mina twitter application",
-  "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/naveenmannam/minatwitter.git"
-  },
-  "author": "Naveen Mannam",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/naveenmannam/minatwitter/issues"
-  },
-  "homepage": "https://github.com/naveenmannam/minatwitter#readme",
-  "dependencies": {
-    "ejs": "^2.5.7",
-    "express": "^4.15.4"
-  }
+    "name": "minatwitter",
+    "version": "1.0.0",
+    "description": "A simple mina twitter application",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/naveenmannam/minatwitter.git"
+    },
+    "author": "Naveen Mannam",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/naveenmannam/minatwitter/issues"
+    },
+    "homepage": "https://github.com/naveenmannam/minatwitter#readme",
+    "dependencies": {
+        "ejs": "^2.5.7",
+        "express": "^4.15.4"
+    }
 }
